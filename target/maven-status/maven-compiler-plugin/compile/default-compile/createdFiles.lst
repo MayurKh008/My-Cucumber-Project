@@ -1,0 +1,5 @@
+com\qa\pages\LoginPage.class
+com\qa\stepdefinitions\HomeSteps.class
+com\qa\pages\HomePage.class
+com\qa\utility\TestUtil.class
+com\qa\utility\TestBase.class
